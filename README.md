@@ -10,6 +10,7 @@ The goal of this question is to assess the candidate’s familiarity with sequen
 ### Solution
 
 Reading in a fastq file and extract the sequences
+
 Computing the spacer counts
 
 |     | spacer               | count |
